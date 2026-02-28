@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\bin\Debug\Laboratory Exercise.exe.config
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\bin\Debug\Laboratory Exercise.exe
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\bin\Debug\Laboratory Exercise.pdb
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory Exercise.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory_Exercise.Form1.resources
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory_Exercise.Properties.Resources.resources
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory Exercise.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory Exercise.exe
+C:\Users\Admin\source\repos\Laboratory Exercise\Laboratory Exercise\obj\Debug\Laboratory Exercise.pdb
